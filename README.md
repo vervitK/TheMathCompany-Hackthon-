@@ -1,2 +1,2 @@
 # TheMathCompany-Hackthon-
-Final LeaderBoard Rank 207/2200
+Final LeaderBoard Rank 204/2200
